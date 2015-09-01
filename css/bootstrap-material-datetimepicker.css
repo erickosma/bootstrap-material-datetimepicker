@@ -1,5 +1,5 @@
 /* DTP */
-.dtp .modal-dialog { width: 400px; }
+.dtp .modal-dialog { width: 25em; }
 .dtp .modal-body { padding: 0!important; }
 .dtp header.dtp-header { background: #689F38; color: #fff; text-align: center; padding: 10px; }
 .dtp div.dtp-date { background: #8BC34A; text-align: center; color: #fff; padding: 10px; }
